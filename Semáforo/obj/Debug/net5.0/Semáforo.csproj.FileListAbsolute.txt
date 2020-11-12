@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\Semáforo.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\Semáforo.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\Semáforo.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\Semáforo.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\Semáforo.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\ref\Semáforo.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\bin\Debug\net5.0\Semáforo.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\ref\Semáforo.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\Sprint_3_Senai\Semáforo\obj\Debug\net5.0\Semáforo.genruntimeconfig.cache
