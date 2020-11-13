@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\Exclui.exe
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\Exclui.deps.json
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\Exclui.runtimeconfig.json
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\Exclui.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\Exclui.dll
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\ref\Exclui.dll
+C:\Users\dev\Desktop\Exclui\bin\Debug\net5.0\Exclui.pdb
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.dll
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\ref\Exclui.dll
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.pdb
+C:\Users\dev\Desktop\Exclui\obj\Debug\net5.0\Exclui.genruntimeconfig.cache
