@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\desafio1.exe
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\desafio1.deps.json
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.json
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\desafio1.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\ref\desafio1.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\bin\Debug\net5.0\desafio1.pdb
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfo.cs
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\ref\desafio1.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.pdb
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\desafio1\obj\Debug\net5.0\desafio1.genruntimeconfig.cache

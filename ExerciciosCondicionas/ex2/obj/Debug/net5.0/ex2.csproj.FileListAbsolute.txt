@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ex2.exe
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ex2.deps.json
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ex2.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ref\ex2.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\bin\Debug\net5.0\ex2.pdb
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ref\ex2.dll
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.pdb
+C:\Users\dev\Desktop\Sprint_3_Senai\Sprint_3_Senai\ExerciciosCondicionas\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
